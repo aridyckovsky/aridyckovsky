@@ -1,4 +1,10 @@
-### Hi there 👋
+## Welcome!
+
+I am a research assistant at both the Unversity of Denver and Harvard Business
+School. In my work, I aim to understand how individual and group
+decisions are impacted by affect and incentives. Previously, I investigated 
+models of collective emotional dynamics in the Stanford 
+Psychophysiology Lab while studying Symbolic Systems at Stanford University.
 
 <!--
 **aridyckovsky/aridyckovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
