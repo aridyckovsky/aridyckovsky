@@ -12,7 +12,7 @@ Psychophysiology Lab while studying Symbolic Systems at Stanford University.
 
 While my scientific pursuits are squarely situated in psychology and
 organizational behavior, my past experiences in physics, finance, food culture, 
-and technology are wholly resopnsible for bringing me to this point.
+and technology are wholly responsible for bringing me to this point.
 
 ### Contact
 
