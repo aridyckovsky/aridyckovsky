@@ -15,7 +15,7 @@ and incentives in fostering or inhibiting that collaboration, and how do situati
 uncertainty or importance modulate these effects? In my research I seek answers to 
 these questions, and in turn, I’m interested in predicting group compositions that are 
 more likely to succeed, and in understanding how members’ attitudes toward each 
-other affect the likelihood of collaboration.
+other impact the likelihood of collaboration.
 
 I’ve pursued these and related questions using methods including online survey experiments, 
 computationally-intensive agent-based modeling, and natural language processing. As I continue
