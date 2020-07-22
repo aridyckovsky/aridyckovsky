@@ -1,36 +1,31 @@
-## Welcome!
+## Hello :wave:
 
-You can call me Ari. My pronouns are _he/him/his_.
+You can call me Ari. My pronouns are _he/him/his_. I'm a research assistant at 
+both the Unversity of Denver Department of Psychology and Harvard Business School 
+Negotiations, Organizations, and  Markets Unit. My advisors are 
+[Peter Sokol-Hessner](http://www.sokolhessnerlab.com/) 
+and [Amit Goldenberg](https://amitgoldenberg.com/), respectively. Previously,
+I worked in the Stanford Psychopathology Lab and at the National Institute of 
+Standards and Technology.
 
-### Research
+### Area of Interest
 
-I am a research assistant at both the Unversity of Denver **Department of
-Psychology** and Harvard Business School **Negotiations, Organizations, and 
-Markets Unit**. My advisors are [Peter Sokol-Hessner](http://www.sokolhessnerlab.com/) 
-and [Amit Goldenberg](https://amitgoldenberg.com/), respectively. 
+What leads members of a group to collaborate or compete? What are the roles of affect
+and incentives in fostering or inhibiting that collaboration, and how do situational 
+uncertainty or importance modulate these effects? In my research I seek answers to 
+these questions, and in turn, I’m interested in predicting group compositions that are 
+more likely to succeed, and in understanding how members’ attitudes toward each 
+other affect the likelihood of collaboration.
 
-My research is focused on the _influences of affect and monetary incentives on individual 
-and group behaviors_, especially in uncertain and high-stakes situations.
-A primary question I hope to answer is "In what ways do emotions and money
-lead members of a group to collaborate or compete?" In turn, I'm interested in
-which group compositions are more likely to work together, and to what
-extent members' attitudes toward each other impact this likelihood.
-
-The methods of investigation I use range from online survey experiments to
-computationally-intensive agent-based modeling to natural language processing.
-For instance, I previously investigated models of collective emotional 
-dynamics in the Stanford Psychophysiology Lab while 
-studying Symbolic Systems at Stanford University.
-
-While my scientific pursuits are squarely situated in psychology and
-organizational behavior, my past experiences in physics, finance, food culture, 
-and technology are wholly responsible for bringing me to this point.
+I’ve pursued these and related questions using methods including online survey experiments, 
+computationally-intensive agent-based modeling, and natural language processing. As I continue
+to uncover the many factors influencing group dynamics, I welcome the opportunity to use
+new tools and techniques to understand them.
 
 ### Contact
 
 I believe in the power of collaboration. If you're interested in
-learning more about research opportunities in psychology or 
-learning about how to incorporate principles of software engineering 
+learning more about research opportunities in psychology or how to incorporate principles of software engineering 
 into scientific research, I encourage you to reach out. I'd be happy to chat 
 and see how I can help. My email address can be found under my profile 
 picture here on GitHub.
