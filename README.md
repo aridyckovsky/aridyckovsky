@@ -11,9 +11,9 @@ Standards and Technology.
 ### Area of Interest
 
 What leads members of a group to collaborate or compete? What are the roles of affect
-and incentives in fostering or inhibiting that collaboration, and how do situational 
+and incentives in fostering or inhibiting that collaboration. How do situational 
 uncertainty or importance modulate these effects? In my research I seek answers to 
-these questions, and in turn, I’m interested in predicting group compositions that are 
+these questions. In turn, I’m interested in predicting group compositions that are 
 more likely to succeed, and in understanding how members’ attitudes toward each 
 other impact the likelihood of collaboration.
 
