@@ -10,11 +10,14 @@ Standards and Technology.
 
 ### Area of Interest
 
-What leads members of a group to collaborate or compete? What are the roles of affect
-and incentives in fostering or inhibiting that collaboration. How do situational 
-uncertainty or importance modulate these effects? In my research I seek answers to 
-these questions. In turn, I’m interested in predicting group compositions that are 
-more likely to succeed, and in understanding how members’ attitudes toward each 
+In my research I seek answers to these questions:
+
+- What leads members of a group to collaborate or compete? 
+- What are the roles of affect and incentives in fostering or inhibiting that collaboration? 
+- How do situational  uncertainty or importance modulate these effects? 
+
+In turn, I’m interested in predicting group compositions that are 
+more likely to succeed, as well as how members’ attitudes toward each 
 other impact the likelihood of collaboration.
 
 I’ve pursued these and related questions using methods including online survey experiments, 
@@ -36,18 +39,3 @@ If you are a high school or undergraduate student interested in applying computa
 methods in psychology, please say hello. I was fortunate enough to work with
 fantastic mentors very early in my career, and can only hope to provide that
 same fortune to those at the beginning of their journeys.
-
-<!--
-**aridyckovsky/aridyckovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
