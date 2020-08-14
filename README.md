@@ -1,7 +1,7 @@
 ## Hello :wave:
 
-You can call me Ari. My pronouns are _he/him/his_. I'm a research assistant at 
-both the Unversity of Denver Department of Psychology and Harvard Business School 
+You can call me Ari. My pronouns are _he/him/his_. I am both a lab manager in the 
+Unversity of Denver Department of Psychology and research assistant in the Harvard Business School 
 Negotiations, Organizations, and  Markets Unit. My advisors are 
 [Peter Sokol-Hessner](http://www.sokolhessnerlab.com/) 
 and [Amit Goldenberg](https://amitgoldenberg.com/), respectively. Previously,
