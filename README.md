@@ -8,22 +8,14 @@ and [Amit Goldenberg](https://amitgoldenberg.com/), respectively. Previously,
 I worked in the Stanford Psychopathology Lab and at the National Institute of 
 Standards and Technology.
 
-### Area of Interest
+### Why will some groups succeed, while others will fail?
 
-In my research I seek answers to these questions:
+I am interested in understanding **how and when a group’s members work together to reach collective goals**.
 
-- What leads members of a group to collaborate or compete? 
-- What are the roles of affect and incentives in fostering or inhibiting that collaboration? 
-- How do situational  uncertainty or importance modulate these effects? 
+- What are the roles of affect and incentives in fostering or inhibiting collaboration? 
+- How might changing stakes or uncertainty affect whether individuals within a group collaborate or compete, and how they collectively perform?
 
-In turn, I’m interested in predicting group compositions that are 
-more likely to succeed, as well as how members’ attitudes toward each 
-other impact the likelihood of collaboration.
-
-I’ve pursued these and related questions using methods including online survey experiments, 
-computationally-intensive agent-based modeling, and natural language processing. As I continue
-to uncover the many factors influencing group dynamics, I welcome the opportunity to use
-new tools and techniques to understand them.
+I’ve pursued these and related questions using methods including online survey and social media experiments, computationally-intensive agent-based modeling, and natural language processing.
 
 ### Contact
 
