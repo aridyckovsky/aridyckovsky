@@ -8,9 +8,9 @@ and [Amit Goldenberg](https://amitgoldenberg.com/), respectively. Previously,
 I worked in the Stanford Psychopathology Lab and at the National Institute of 
 Standards and Technology.
 
-### Why will some groups succeed, while others will fail?
+### Research Interests
 
-I am interested in understanding **how and when a group’s members work together to reach collective goals**.
+Why will some groups succeed, while others will fail? I am interested in understanding **how and when a group’s members work together to reach collective goals**.
 
 - What are the roles of affect and incentives in fostering or inhibiting collaboration? 
 - How might changing stakes or uncertainty affect whether individuals within a group collaborate or compete, and how they collectively perform?
